@@ -6,3 +6,14 @@
 * [Telegram](https://t.me/LinaMed)
 * [Instagram](https://www.instagram.com/wl_lina/)
 
+## **<About>**
+
+## **<Skills>**
+
+## **<My_Works>**
+
+## **<Job_Experience>**
+
+## **<Education>**
+
+## **<Languages>**
