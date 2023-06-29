@@ -17,3 +17,5 @@
 ## **<Education>**
 
 ## **<Languages>**
+_English — A2_
+_Korean — A1_ 
