@@ -9,6 +9,11 @@
 
 ## **<About>**
 
+Hello! my name is Alina. For some time I worked as a designer: I created flyers, design for social networks, certificates. Developed presentation materials for the regional selection of the Teacher of the Year competition.
+
+I like to learn something new. I'm learning Korean, D modeling. Also, in my free time, I photograph and retouch photos of myself and my loved ones, practice web design and read.
+
+
 ## **<Skills>**
 * _CSS_
 * _Joomla CMS_
