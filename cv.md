@@ -96,7 +96,7 @@ Public Service and Management, Applied Mathematics and Computer Science
 
 _2021_
 __Kursk Institute of Management, Economics and Business, Kursk__
-Faculty of Master's Degree Training, Applied Computer Science (by field)
+Faculty of Master's Degree Training, Applied Computer Science
 
 _2019_
 __Academy of Management and Public Service__
