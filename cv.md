@@ -39,7 +39,7 @@
 
 ## **<Education>**
 _2021_
-__DonAUiGS*__
+__Academy of Management and Public Service__
 Public Service and Management, Applied Mathematics and Computer Science
 
 _2021_
@@ -47,7 +47,7 @@ __Kursk Institute of Management, Economics and Business, Kursk__
 Faculty of Master's Degree Training, Applied Computer Science (by field)
 
 _2019_
-__DonAUiGS__
+__Academy of Management and Public Service__
 Public Service and Management, Applied Informatics
 
 _2017_
