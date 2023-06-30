@@ -32,7 +32,7 @@ I like to learn something new. I'm learning Korean, D modeling. Also, in my free
 
 
 
-## **My_Works**
+## __ My_Works __
 
 * **[CV](https://github.com/AlinaMed/sell-idea.github.io)** my CV 
 
