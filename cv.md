@@ -37,6 +37,23 @@
 
 ## **<Job_Experience>**
 
+_October 2022 — June 2023_
+_**_DONRIRO**_
+SECRETARY OF THE DEPARTMENT
+
+_April 2022 — October 2022_
+**_[freelance](amedportfolio.tilda.ws/)_**
+Graphic Designer
+
+_March 2022 — April 2022_
+**_The First Republican TV Channel_**
+Correspondent
+
+_April 2020 — February 2022_
+**_[freelance](amedportfolio.tilda.ws/)_**
+Graphic Designer
+
+
 ## **<Education>**
 _2021_
 __Academy of Management and Public Service__
@@ -57,4 +74,5 @@ Programming in computer systems, Programmer Technician
 
 ## **<Languages>**
 _English — A2_
+<br>
 _Korean — A1_ 
