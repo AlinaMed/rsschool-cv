@@ -27,6 +27,14 @@
 
 ## **<My_Works>**
 
+* **[CV](https://github.com/AlinaMed/sell-idea.github.io)** my CV 
+
+* **[sell-idea](https://github.com/AlinaMed/sell-idea.github.io)** a project that helps to collect donations for the implementation of your idea 
+
+* **[portfolio](https://github.com/AlinaMed/AlinaMed.github.io.git)** some educational works
+
+
+
 ## **<Job_Experience>**
 
 ## **<Education>**
