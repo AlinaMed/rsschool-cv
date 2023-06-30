@@ -2,21 +2,21 @@
 ![avatar](https://cloud.mail.ru/public/WApH/AYJeNnLWv)
 
 
-## **<Contact_>**
+## **Contact_**
 * Discord WLLina#0591
 * E-mail lianasunny22@gmail.com
 * [Telegram](https://t.me/LinaMed)
 * [Instagram](https://www.instagram.com/wl_lina/)
 
 
-## **<About_>**
+## **About_**
 
 Hello! my name is Alina. For some time I worked as a designer: I created flyers, design for social networks, certificates. Developed presentation materials for the regional selection of the Teacher of the Year competition.
 
 I like to learn something new. I'm learning Korean, D modeling. Also, in my free time, I photograph and retouch photos of myself and my loved ones, practice web design and read.
 
 
-## **<Skills_>**
+## **Skills_**
 * _CSS_
 * _Joomla CMS_
 * _MySQL_
@@ -32,7 +32,7 @@ I like to learn something new. I'm learning Korean, D modeling. Also, in my free
 
 
 
-## **<My_Works>**
+## **My_Works**
 
 * **[CV](https://github.com/AlinaMed/sell-idea.github.io)** my CV 
 
@@ -40,7 +40,7 @@ I like to learn something new. I'm learning Korean, D modeling. Also, in my free
 
 * **[portfolio](https://github.com/AlinaMed/AlinaMed.github.io.git)** some educational works
 
-## **<Code_Examples>**
+## **Code_Examples**
 ```
 var h=document.getElementById("hour");
 var m=document.getElementById("min");
@@ -70,7 +70,7 @@ s.innerHTML=sec;
 ```
 
 
-## **<Job_Experience>**
+## **Job_Experience**
 
 _October 2022 — June 2023_
 _**_DONRIRO**_
@@ -89,7 +89,7 @@ _April 2020 — February 2022_
 Graphic Designer
 
 
-## **<Education_>**
+## **Education_**
 _2021_
 __Academy of Management and Public Service__
 Public Service and Management, Applied Mathematics and Computer Science
@@ -107,7 +107,7 @@ __Donetsk Technical School of Industrial Automation__
 Programming in computer systems, Programmer Technician
 
 
-## **<Languages_>**
+## **Languages_**
 _English — A2_
 <br>
 _Korean — A1_ 
