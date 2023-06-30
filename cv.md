@@ -6,6 +6,7 @@
 * [Telegram](https://t.me/LinaMed)
 * [Instagram](https://www.instagram.com/wl_lina/)
 
+
 ## **<About>**
 
 ## **<Skills>**
@@ -29,6 +30,22 @@
 ## **<Job_Experience>**
 
 ## **<Education>**
+_2021_
+__DonAUiGS*__
+Public Service and Management, Applied Mathematics and Computer Science
+
+_2021_
+__Kursk Institute of Management, Economics and Business, Kursk__
+Faculty of Master's Degree Training, Applied Computer Science (by field)
+
+_2019_
+__DonAUiGS__
+Public Service and Management, Applied Informatics
+
+_2017_
+__Donetsk Technical School of Industrial Automation__
+Programming in computer systems, Programmer Technician
+
 
 ## **<Languages>**
 _English — A2_
