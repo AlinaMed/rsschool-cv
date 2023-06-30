@@ -2,21 +2,21 @@
 ![avatar](https://cloud.mail.ru/public/WApH/AYJeNnLWv)
 
 
-## **<Contact>**
+## **<Contact_>**
 * Discord WLLina#0591
 * E-mail lianasunny22@gmail.com
 * [Telegram](https://t.me/LinaMed)
 * [Instagram](https://www.instagram.com/wl_lina/)
 
 
-## **<About>**
+## **<About_>**
 
 Hello! my name is Alina. For some time I worked as a designer: I created flyers, design for social networks, certificates. Developed presentation materials for the regional selection of the Teacher of the Year competition.
 
 I like to learn something new. I'm learning Korean, D modeling. Also, in my free time, I photograph and retouch photos of myself and my loved ones, practice web design and read.
 
 
-## **<Skills>**
+## **<Skills_>**
 * _CSS_
 * _Joomla CMS_
 * _MySQL_
@@ -89,7 +89,7 @@ _April 2020 — February 2022_
 Graphic Designer
 
 
-## **<Education>**
+## **<Education_>**
 _2021_
 __Academy of Management and Public Service__
 Public Service and Management, Applied Mathematics and Computer Science
@@ -107,7 +107,7 @@ __Donetsk Technical School of Industrial Automation__
 Programming in computer systems, Programmer Technician
 
 
-## **<Languages>**
+## **<Languages_>**
 _English — A2_
 <br>
 _Korean — A1_ 
