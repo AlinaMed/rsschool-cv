@@ -1,1 +1,1 @@
-https://AlinaMed.github.io/rsschool-cv/cv
+https://AlinaMed.github.io/rsschool-cv
