@@ -34,7 +34,7 @@ I like to learn something new. I'm learning Korean, D modeling. Also, in my free
 
 ## __ My_Works __
 
-* **[CV](https://github.com/AlinaMed/sell-idea.github.io)** my CV 
+* **[CV](https://github.com/AlinaMed/rsschool-cv.git)** my CV 
 
 * **[sell-idea](https://github.com/AlinaMed/sell-idea.github.io)** a project that helps to collect donations for the implementation of your idea 
 
