@@ -29,11 +29,7 @@
     margin: 0;
   }
 
-  .footer
-  {
-    /*border: 1px solid rgb(79, 70, 201);*/
-    margin: 0;
-  }
+ 
 
   .container {
     max-width: 1440px;
@@ -169,4 +165,21 @@ p
 {
   color:#95bbac;
   font-weight: bold;
+}
+ 
+
+.links
+{
+  text-decoration: none;
+}
+
+.links:hover
+{
+  color:#e79e86;
+}
+
+.footer
+{
+  margin: 0;
+  background-color: #b3c4b6;
 }
