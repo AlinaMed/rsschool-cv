@@ -170,6 +170,7 @@ p
 
 .links
 {
+  color:black;
   text-decoration: none;
 }
 
@@ -178,6 +179,11 @@ p
   color:#e79e86;
 }
 
+
+.subtitle
+{
+  font-style:italic;
+}
 .footer
 {
   margin: 0;
