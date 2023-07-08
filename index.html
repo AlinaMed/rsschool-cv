@@ -23,8 +23,8 @@
                     <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
                     <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
                     <li class="nav-item"><a href="#myworks" class="nav-link">My Works</a></li>
-                    <li class="nav-item"><a href="#codeexamples" class="nav-link">Code_Examples</a></li>
-                    <li class="nav-item"><a href="#jobexperience" class="nav-link">Job_Experience</a></li>
+                    <li class="nav-item"><a href="#codeexamples" class="nav-link">Code Examples</a></li>
+                    <li class="nav-item"><a href="#jobexperience" class="nav-link">Job Experience</a></li>
                     <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
                     <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
                 </ul>
@@ -34,11 +34,15 @@
 
     <main class = "main">
         <div class="container">
+            
         <section class="section">
+        <div class="main-container">
         <img class="avatar" src="assets/img/avatar.png"alt="RS School">   
         <h1>Alina Medovshchikova</h1>
+        </div>
         </section>
 
+        
         <section class="section" id="contacts">
             <h2>Contact</h2>
             <nav class="nav">
@@ -48,7 +52,8 @@
                 <li>[Instagram](https://www.instagram.com/wl_lina/)</li>
             </nav>
         </section>
-
+        
+        <div class="main-container">
         <section class="section" id="about">
             <h2>About</h2>
             <p>Hello! my name is Alina. For some time I worked as a designer:
@@ -61,20 +66,26 @@
 
         <section class="section" id="skills">
             <h2>Skills</h2>
+            <div class="main-container">
             <nav class="nav">
-                <li>CSS</li>
-                <li>Joomla CMS</li>
-                <li>MySQL</li>
                 <li>HTML5</li>
-                <li>SQL</li>
-                <li>CSS3</li>
-                <li>PHP5</li>
+                <li>CSS</li>
                 <li>jQuery</li>
+            </nav>
+
+            <nav class="nav">
+                <li>PHP5</li>
+                <li>SQL</li>
+                <li>MySQL</li> 
+                <li>Joomla CMS</li>
+            </nav> 
+
+            <nav class="nav">          
                 <li>Figma</li>
                 <li>Adobe Illustrator, Lightroom, Photoshop</li>
-                <li>MS Visio</li>
-                <li>MS Project</li>
+                <li>MS Visio, Project</li>
             </nav>
+            </div>
         </section>
 
         <section class="section" id="myworks">
@@ -89,7 +100,33 @@
 
         <section class="section" id="codeexamples">
             <h2>Code_Examples</h2>
-            <p> </p>
+            <pre>
+                <code>var h=document.getElementById("hour");
+                    var m=document.getElementById("min");
+                    var s=document.getElementById("sec");
+                    
+                    setInterval(function(){
+                    var d = new Date();
+                    var hours = 23-d.getHours();
+                    if(hours<10)
+                    {
+                      hours="0"+hours;
+                    }
+                    var min = 59-d.getMinutes();
+                    if(hours<10)
+                    {
+                      min="0"+min;
+                    }
+                    var sec = 59-d.getSeconds();
+                    if(sec<10)
+                    {
+                      sec="0"+sec;
+                    }
+                    h.innerHTML=hours+":";
+                    m.innerHTML=min+":";
+                    s.innerHTML=sec;}, 1000)
+                </code>
+            </pre>
         </section>
 
         <section class="section" id="jobexperience">
@@ -141,6 +178,7 @@
                 <li> Korean — A1_</li>
             </nav>
         </section> 
+    </div>
         </div>
 
     </main>
@@ -149,9 +187,11 @@
 
     <footer class = "footer">
         <div class="container">
+            <div class="main-container">
             <a href="https://github.com/AlinaMed"><p>Alina Medovshchikova</p></a>
             <p>2023</p>
             <a href="https://rs.school/js/"><img class="rs_avatar" src="assets/svg/rs_school_js.svg"alt="RS School"></a>
+        </div>
         </div>
     </footer>
 </html>
