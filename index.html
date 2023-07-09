@@ -32,12 +32,11 @@
     </header>
 
     <main class = "main">
-
         <div class="container">     
             <div class="main-container">  
                 <section class="section">
                     <div class="titular">
-                        <img class="avatar" src="assets/img/avatar2.png"alt="RS School">  
+                        <img class="avatar" src="assets/img/avatar2.png" alt="my profile picture">  
                     </div> 
                </section> 
 
@@ -46,7 +45,7 @@
                     <h1>Alina Medovshchikova</h1>
                 </section> 
             </div>     
-        </div>    
+         
             
         <div class="main-container">
 
@@ -122,30 +121,25 @@
         <section class="section" id="codeexamples">
             <h2>Code Examples</h2>
             <pre>
-                <code>var h=document.getElementById("hour");
+                <code>
+                    var h=document.getElementById("hour");
                     var m=document.getElementById("min");
                     var s=document.getElementById("sec");
                     
-                    setInterval(function()
+                    setInterval(function())
                     var d = new Date();
                     var hours = 23-d.getHours();
-                    if(hours<10)
+                    var t=10;
+                               
+                   if(hours&ltt)
                     {
                       hours="0"+hours;
-                    }
-                    var min = 59-d.getMinutes();
-                    if(hours<10)
-                    {
                       min="0"+min;
                     }
-                    var sec = 59-d.getSeconds();
-                    if(sec<10)
-                    {
-                      sec="0"+sec;
-                    }
-                    h.innerHTML=hours+":";
-                    m.innerHTML=min+":";
-                    s.innerHTML=sec;}, 1000)
+                    var min = 59-d.getMinutes();
+                    
+                    h.innerHTML=hours+;
+                    m.innerHTML=min+;  
                 </code>
             </pre>
         </section>
@@ -179,7 +173,7 @@
             <h2>Education</h2>
             <ul class="navblocks">
             <li><span class="bold">2021</span>
-                <li>Academy of Management and Public Service</li>
+                <li class="subtitle">Academy of Management and Public Service</li>
                 <li> Public Service and Management, Applied Mathematics and Computer Science</li>
             </ul>
             <ul class="navblocks">    
@@ -190,13 +184,13 @@
 
             <ul class="navblocks">        
                 <li><span class="bold">2019</span></li>
-                <li>Academy of Management and Public Service</li>
+                <li class="subtitle">Academy of Management and Public Service</li>
                 <li>Public Service and Management, Applied Informatics</li>
             </ul>
                     
             <ul class="navblocks">        
                 <li><span class="bold">2017</span>
-                <li>Donetsk Technical School of Industrial Automation</li>
+                <li class="subtitle">Donetsk Technical School of Industrial Automation</li>
                 <li>Programming in computer systems, Programmer Technician</li>
             </ul>
         </section>
@@ -204,7 +198,7 @@
        
         </div>
         </div>
-
+        </div>   
     </main>
 
 
